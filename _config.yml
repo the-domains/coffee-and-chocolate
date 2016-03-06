@@ -1,0 +1,28 @@
+name: 'Coffee&Chocolate'
+favicon: null
+layout_spectrum: 0.1489820838905871
+typography_spectrum: 0.30972714605741203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6081053507514298
+  lightness: 0.774528045207262
+  saturation: 0.9894835485611111
+  rhythmicContrast: 0.8274945167358965
+purpose: []
